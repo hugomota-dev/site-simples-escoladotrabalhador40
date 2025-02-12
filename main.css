@@ -1,0 +1,39 @@
+/* Variáveis CSS */
+:root {
+    --green: #00ff00;
+    --white: #fff;
+    --black: #000;
+}
+
+/* Adicionar um tema claro */
+.light-theme {
+    --bg: var(--green);
+    --fontColor: var(--black);
+}
+
+.dark-theme {
+    --bg: var(--black);
+    --fontColor: var(--green);
+}
+
+* {
+    color: var(--fontColor);
+    font-family: Helvetica, sans-serif;
+}
+
+/* Outas Configurações */
+body {
+    background: var(--bg);
+}
+
+ul {
+    font-family: "Courier New", Courier, monospace;
+}
+
+li {
+    list-style: circle;
+}
+
+.list {
+    list-style: square;
+}
