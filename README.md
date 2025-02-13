@@ -1,21 +1,53 @@
-# Escola do Trabalhador 4.0
-## Introdução à programação - Criar um site simples usando HTML, CSS e JavaScript
-### Requisitos
-- Instalar o [Visual Studio Code](https://code.visualstudio.com/)
+# 🚀 Escola do Trabalhador 4.0 - Introdução à Programação
 
-### Estrutura de arquivos
-- HTML - Estrutura da Página e conteúdo
-- CSS - Apresentação e aplicação de estilo
-- JavaScript - Comportamento e interatividade
+Criando um site simples com HTML, CSS e JavaScript
 
-### Extensões do Visual Studio Code 
-- [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
+📌 Sobre o Projeto
 
-### Aprendizado
-- Configuração de um ambiente de trabalho para desenvolvimento web utilizando o Visual Studio Code
-- Aplicação de estilos a diferentes elementos 
-- Uso do suporte para temas usando CSS
-- Manipulação de eventos utilizando JavaScript
+Este repositório contém os arquivos e aprendizados adquiridos no curso "Introdução à Programação" da Escola do Trabalhador 4.0. O objetivo é desenvolver um site básico utilizando HTML, CSS e JavaScript, aplicando conceitos fundamentais de desenvolvimento web.
 
-### Aprendizado fora do curso da Escola do Trabalhador 4.0
-- Gerenciamento de repositório usando o GitHub
+🛠️ Pré-requisitos
+- [Visual Studio Code (Editor de Código)](https://code.visualstudio.com/)
+- [Git (Opcional, para controle de versão)](https://git-scm.com/downloads)
+
+📂 Estrutura do Projeto
+
+O projeto segue a seguinte organização:
+
+📂 site-simples/
+│── 📜 index.html  
+│── 📜 main.css   
+│── 📜 app.js   
+
+HTML → Define a estrutura e o conteúdo do site
+CSS → Responsável pelo design e aparência
+JavaScript (js) → Implementa interatividade e dinamismo
+
+🔌 Extensões recomendadas para o VS Code
+Para facilitar o desenvolvimento, instale a extensão abaixo:
+
+- [Live Server → Permite visualizar o site em tempo real](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
+
+📚 Aprendizados
+
+✅ Configuração do ambiente de desenvolvimento web no Visual Studio Code
+✅ Aplicação de estilos e temas utilizando CSS
+✅ Manipulação de eventos e interatividade com JavaScript
+
+📚 Conhecimentos adicionais adquiridos
+
+✅ Gerenciamento de repositórios no GitHub
+✅ Uso do Git para versionamento de código
+
+📌 Como Executar o Projeto
+
+1. Clone este repositório:
+´´´git clone https://github.com/hugomota-dev/site-simples-escoladotrabalhador40
+´´´
+2. Abra o projeto no Visual Studio Code
+3. Com a extensão Live Server instalada, clique com o botão direito no index.html e selecione "Open with Live Server"
+
+📜 Licença
+
+Este projeto foi desenvolvido como parte do curso Escola do Trabalhador 4.0 e pode ser usado livremente para estudos.
+
