@@ -15,6 +15,7 @@ Este repositório contém os arquivos e aprendizados adquiridos no curso "Introd
 O projeto segue a seguinte organização:
 
 📂 site-simples/
+
 │── 📜 index.html  
 │── 📜 main.css   
 │── 📜 app.js   
