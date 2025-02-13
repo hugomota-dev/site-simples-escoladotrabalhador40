@@ -16,7 +16,7 @@ Este repositório contém os arquivos e aprendizados adquiridos no curso "Introd
 
 #### O projeto segue a seguinte organização:
 
-📂 site-simples/
+📂 site-simples-escoladotrabalhador40/
 
 │── 📜 index.html  → HTML → Define a estrutura e o conteúdo do site
 
