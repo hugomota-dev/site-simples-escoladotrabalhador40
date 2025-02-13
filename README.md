@@ -49,8 +49,9 @@ Para facilitar o desenvolvimento, instale a extensão abaixo:
 ### 📌 Como Executar o Projeto
 
 1. Clone este repositório:
-´´´git clone https://github.com/hugomota-dev/site-simples-escoladotrabalhador40
-´´´
+```bash
+git clone https://github.com/hugomota-dev/site-simples-escoladotrabalhador40
+```
 2. Abra o projeto no Visual Studio Code
 3. Com a extensão Live Server instalada, clique com o botão direito no index.html e selecione "Open with Live Server"
 
