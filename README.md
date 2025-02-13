@@ -6,6 +6,9 @@
 
 Este repositório contém os arquivos e aprendizados adquiridos no curso "Introdução à Programação" da Escola do Trabalhador 4.0. O objetivo é desenvolver um site básico utilizando HTML, CSS e JavaScript, aplicando conceitos fundamentais de desenvolvimento web.
 
+| Tema Light  | Tema Dark |
+| ------------- | ------------- |
+| ![image](https://github.com/user-attachments/assets/97fc52da-d137-4f09-b10a-ae34cb1396d0)   | ![image](https://github.com/user-attachments/assets/60911af3-8ad6-438e-a18d-6e7b10f40ee5)  |                          
 
 ### 🛠️ Pré-requisitos
 - [Visual Studio Code (Editor de Código)](https://code.visualstudio.com/)
