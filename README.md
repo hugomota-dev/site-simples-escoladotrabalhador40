@@ -63,3 +63,8 @@ git clone https://github.com/hugomota-dev/site-simples-escoladotrabalhador40
 
 Este projeto foi desenvolvido como parte do curso Escola do Trabalhador 4.0 e pode ser usado livremente para estudos.
 
+### 📃 Certificado de conclusão ✔️
+
+![image](https://github.com/user-attachments/assets/280d2bd1-3000-4eaa-b987-da148270d584)
+
+
